@@ -11,20 +11,6 @@ A hybrid MATLAB & Python framework for simulating and analyzing quantum key dist
 
 ---
 
-## Table of Contents
-
-- [Features](#features)  
-- [Repository Structure](#repository-structure)  
-- [Requirements](#requirements)  
-- [Installation](#installation)  
-- [Usage](#usage)  
-  - [MATLAB Simulations](#matlab-simulations)  
-  - [Python “Clean” Simulator](#python-clean-simulator)  
-- [Results & Figures](#results--figures)  
-- [Contributing](#contributing)  
-- [License](#license)  
-- [Contact](#contact)  
-
 ---
 
 ## Features
@@ -44,5 +30,4 @@ A hybrid MATLAB & Python framework for simulating and analyzing quantum key dist
 
 ---
 
-## Repository Structure
 
